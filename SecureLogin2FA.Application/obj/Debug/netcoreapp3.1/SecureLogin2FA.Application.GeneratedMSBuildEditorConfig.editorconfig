@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SecureLogin2FA.Application
+build_property.ProjectDir = C:\projects\SecureLogin2FA\SecureLogin2FA.Application\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
